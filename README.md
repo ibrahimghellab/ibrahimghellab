@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Ghellab !</h1>
-<h3 align="center">A passionate IT student from France.</h3>
+#<h1 align="center">Hi 👋, I'm Ibrahim Ghellab !</h1>
+#<h3 align="center">A passionate IT student from France.</h3>
 
-- 🔭 I’m currently working on .
+#- 🔭 I’m currently working on .
 
 - 🌱 I’m currently learning .
 
