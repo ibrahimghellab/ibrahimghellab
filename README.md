@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimghellab&show_icons=true&locale=en&layout=compact" alt="ibrahimghellab" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahimghellab&show_icons=true&locale=en" alt="ibrahimghellab" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahimghellab&show_icons=true&locale=en" alt="ibrahimghellab" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimghellab&" alt="ibrahimghellab" /></p>
 
