@@ -15,7 +15,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ibrahimghellab&show_icons=true&locale=en" alt="ibrahimghellab" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimghellab&" alt="ibrahimghellab" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimghellab&" alt="ibrahimghellab" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ibrahimghellab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
