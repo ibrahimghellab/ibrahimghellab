@@ -14,8 +14,9 @@
 
 
   ![](https://github-readme-stats.vercel.app/api?username=ibrahimghellab&show_icons=true&locale=en)
-  ![](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimghellab&show_icons=true&locale=en)
+  
   ![](https://github-readme-streak-stats.herokuapp.com/?user=ibrahimghellab)
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=ibrahimghellab&show_icons=true&locale=en)
   
 
 ## 🏆 GitHub Trophies
