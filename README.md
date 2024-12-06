@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a C# tool<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning JavaScript<br>
+🔭 I’m currently working on a C# tool<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning React<br>
 
 
 # Connect with me:
