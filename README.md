@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with a PERN Stack<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning React and Python<br>
+🔭 I’m currently working with a PERN Stack<br>👯 I’m looking to collaborate on new projects<br>🌱 I’m currently learning React, Python, Supabase and Prisma<br>
 
 
 # Connect with me:
