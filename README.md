@@ -10,7 +10,7 @@
 
 # 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,tailwind,js,nodejs,react,php,sqlit,mysql,supabase,unity,godot,git,github,gitlabl&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,java,py,html,css,tailwind,js,nodejs,react,php,sqlite,mysql,supabase,unity,godot,git,github,gitlabl&perline=15)](https://skillicons.dev)
 
 
 
